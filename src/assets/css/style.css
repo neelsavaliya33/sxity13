@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner-image {
+  /* max-width: 500px; */
+}
+
+::selection {
+  background-color: #059669;
+  color: #fff;
+}
+
+body {
+  padding-top: 96px;
+}
+
+.core-services {
+  transition: all 0.3s ease-in-out;
+}
+
+.core-services .read-more {
+  opacity: 0;
+  transition: all 0.3s ease-in-out;
+}
+
+.core-services:hover {
+  transform: scale(1.02);
+}
+
+.core-services:hover .read-more {
+  opacity: 1;
+}
+
+.header-items.active {
+  color: #059669 !important;
+}
+
+.card-image {
+  height: 350px;
+}
+
+.card-image img {
+  height: 100%;
+  width: auto;
+  margin: 0 auto;
+}
+
+.tec-tab .tabs {
+  font-weight: bold;
+  padding: 0 0 10px 0;
+  min-width: 16.66%;
+  text-align: center;
+}
+.tec-tab .tabs.active {
+  color: #059669 !important;
+  border-bottom: 2px solid #059669;
+}
+
+.tab-content .item img {
+  max-width: 64px;
+}
+
+.tab-content .item .image {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+@media (max-width: 767px) {
+  body {
+    padding-top: 84px;
+  }
+}
