@@ -25,42 +25,42 @@
         <div class="tec-tab mt-12">
           <div class="flex justify-between">
             <div
-              class="cursor-pointer tabs hover:text-green-600"
+              class="cursor-pointer tabs hover:text-green-theme"
               :class="{ active: activeTacTab == 'UI/UX' }"
               v-on:click="activeTab('UI/UX')"
             >
               UI/UX
             </div>
             <div
-              class="cursor-pointer tabs hover:text-green-600"
+              class="cursor-pointer tabs hover:text-green-theme"
               :class="{ active: activeTacTab == 'Front End' }"
               v-on:click="activeTab('Front End')"
             >
               Front End
             </div>
             <div
-              class="cursor-pointer tabs hover:text-green-600"
+              class="cursor-pointer tabs hover:text-green-theme"
               :class="{ active: activeTacTab == 'Backend' }"
               v-on:click="activeTab('Backend')"
             >
               Backend
             </div>
             <div
-              class="cursor-pointer tabs hover:text-green-600"
+              class="cursor-pointer tabs hover:text-green-theme"
               :class="{ active: activeTacTab == 'Database' }"
               v-on:click="activeTab('Database')"
             >
               Database
             </div>
             <div
-              class="cursor-pointer tabs hover:text-green-600"
+              class="cursor-pointer tabs hover:text-green-theme"
               :class="{ active: activeTacTab == 'Mobile' }"
               v-on:click="activeTab('Mobile')"
             >
               Mobile
             </div>
             <div
-              class="cursor-pointer tabs hover:text-green-600"
+              class="cursor-pointer tabs hover:text-green-theme"
               :class="{ active: activeTacTab == 'Infra and DevOps' }"
               v-on:click="activeTab('Infra and DevOps')"
             >

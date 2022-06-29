@@ -18,7 +18,7 @@
             project execution processes help you to deliver the right solutions.
           </p>
           <button
-            class="text-sm sm:text-xl bg-green-600 hover:bg-transparent py-2 lg:py-3 px-3 lg:px-5 rounded-2xl text-white hover:text-green-600 font bold border-2 border-green-600 duration-500 mt-8"
+            class="text-sm sm:text-xl bg-green-theme hover:bg-transparent py-2 lg:py-3 px-3 lg:px-5 rounded-2xl text-white hover:text-green-theme font bold border-2 border-green-theme duration-500 mt-8"
           >
             What we do
           </button>

@@ -7,7 +7,7 @@
 }
 
 ::selection {
-  background-color: #059669;
+  background-color: #28998B;
   color: #fff;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 .header-items.active {
-  color: #059669 !important;
+  color: #28998B!important;
 }
 
 .card-image {
@@ -53,8 +53,8 @@ body {
   text-align: center;
 }
 .tec-tab .tabs.active {
-  color: #059669 !important;
-  border-bottom: 2px solid #059669;
+  color: #28998B!important;
+  border-bottom: 2px solid #28998B;
 }
 
 .tab-content .item img {
@@ -74,4 +74,8 @@ body {
   body {
     padding-top: 84px;
   }
+}
+
+.text-green-theme {
+  color: #28998b !important;
 }

@@ -36,7 +36,7 @@
             UI/UX design, our team delivers dazzling experiences for maximum
             user engagement.
           </p>
-          <a href="#" class="read-more mt-10 block font-bold text-green-600"
+          <a href="#" class="read-more mt-10 block font-bold text-green-theme"
             >Read more</a
           >
         </div>
@@ -63,7 +63,7 @@
             We deliver web presence to help you grow your business using the
             best web technologies.
           </p>
-          <a href="#" class="read-more mt-10 block font-bold text-green-600"
+          <a href="#" class="read-more mt-10 block font-bold text-green-theme"
             >Read more</a
           >
         </div>
@@ -90,7 +90,7 @@
             for businesses, consumers and enterprises that end users love and
             adapt to them very quickly.
           </p>
-          <a href="#" class="read-more mt-10 block font-bold text-green-600"
+          <a href="#" class="read-more mt-10 block font-bold text-green-theme"
             >Read more</a
           >
         </div>
@@ -117,7 +117,7 @@
             project on short term, long term or permanent basis with guaranteed
             project delivery at affordable prices.
           </p>
-          <a href="#" class="read-more mt-10 block font-bold text-green-600"
+          <a href="#" class="read-more mt-10 block font-bold text-green-theme"
             >Read more</a
           >
         </div>

@@ -31,7 +31,7 @@
             class="
               text-sm
               sm:text-xl
-              bg-green-600
+              bg-green-theme
               hover:bg-transparent
               py-2
               lg:py-3
@@ -39,10 +39,10 @@
               lg:px-5
               rounded-2xl
               text-white
-              hover:text-green-600
+              hover:text-green-theme
               font
               bold
-              border-2 border-green-600
+              border-2 border-green-theme
               duration-500
               mt-8
             "
